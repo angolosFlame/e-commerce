@@ -16,7 +16,6 @@
     "url": "https://github.com/angolosFlame/e-commerce/issues"
   },
   "homepage": "https://github.com/angolosFlame/e-commerce#readme",
-  "description": "",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
@@ -26,5 +25,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "description": ""
 }
